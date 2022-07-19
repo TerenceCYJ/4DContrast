@@ -1,7 +1,7 @@
 # 4DContrast: Contrastive Learning with Dynamic Correspondences for 3D Scene Understanding
 ![4DContrast](assets/4dcontrast.jpeg)
 
-[[ECCV 2022 Paper]](https://arxiv.org/abs/2112.02990) [[Video]](https://youtu.be/qhGhWZmJq3U) [[Project Page]](terencecyj.github.io/projects/4dcontrast.html)
+[[ECCV 2022 Paper]](https://arxiv.org/abs/2112.02990) [[Video]](https://youtu.be/qhGhWZmJq3U) [[Project Page]](https://terencecyj.github.io/projects/4dcontrast.html)
 
 ## Citing our paper
 ```
@@ -14,4 +14,4 @@
 ```
 
 ## License
-Contrastive Scene Contexts is relased under the MIT License. See the LICENSE file for more details.
+4DContrast is relased under the MIT License. See the LICENSE file for more details.
